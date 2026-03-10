@@ -1,5 +1,7 @@
 # Hardware
 
+THIS COMPONENT HAS BEEN MERGED BACK INTO PLATFORM AND FURTHER WORK HERE HAS BEEN SUSPENDED.
+
 ## Configs
 
 | Config | Docs   | Description |
